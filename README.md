@@ -24,5 +24,4 @@ https://www.kaggle.com/stackoverflow/so-survey-2017
 A summary of the results of the analysis<br>
 We studied the Stack Overflow Survey data in 2017. With the data given, althugh limited, we may carefully say that the career satisfaction come from self movtivation or active mind rather than the outer conditions such as salary, job proficiency, or education
 
-Necessary acknowledgments<br>
-Thanks to my two sons. 
+Finally, thanks to my two sons for the peaceful Saturday! 
