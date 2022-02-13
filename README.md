@@ -1,6 +1,9 @@
 # DSND_Project1_Write_A_Blog 
 We will study the 2017 StackOverflow survey data to answer the following 3 questions and find the answers by looking at the date.  
 
+I wrote a blog article on medium with the following link. Feel free to visit and leave any comment.
+[Are you dare to switch to a career in data science?](https://medium.com/@sainthokim/are-you-dare-to-switch-to-a-career-in-data-science-5c66d185bef7)
+
 Q1. Find the correlation between highset level of formal education and the company size the correnpondent work for.<br>
 Q2. Let's find out if it is true that the longer a person has worked for as a programmer, the more satisfied the person could be.<br>
 Q3. What makes people satisfied with their job?
